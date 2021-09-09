@@ -116,7 +116,7 @@ margin: 20px;
 
 .logo{
   margin: 25px;
-  width: 18%;
+  width: 30%;
 }
 
 #pricing{
@@ -167,7 +167,7 @@ line-height: 1.5rem
   .Iphone-img{
     position: static;
     transform: rotate(0);
-    width: 65%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
   }
