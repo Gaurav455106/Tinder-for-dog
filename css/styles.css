@@ -1,0 +1,190 @@
+#title{
+  background-color: #ff4c68;
+  padding-bottom: 10%
+
+}
+
+.headline{
+  padding-right: 20%;
+}
+h1{
+  font-family: 'Glory', sans-serif;
+  font-weight: bold;
+  color: #ffff;
+  line-height: 1.5;
+  font-size: 3.5rem;
+}
+
+h3{
+  font-weight: bold;
+}
+
+p{
+  font-weight: 100;
+}
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.2rem;
+
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+
+}
+
+.container-fluid{
+padding: 3% 15%;
+}
+
+.Iphone-img{
+width: 22%;
+margin-left: -200px;
+position: absolute;
+transform: rotate(20deg);
+}
+
+body{
+  font-family: 'Glory', sans-serif;
+  font-weight: 800;
+}
+
+em{
+  color: #fff;
+}
+
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+  .item-parent{
+    text-align: center;
+  }
+
+
+#features{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+.feature-item{
+  padding: 5%
+}
+
+.icon{
+  padding: 3%;
+  color: #ef8172;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+
+#testimonials{
+  font-weight: bolder;
+  color: #fff;
+  background-color: #ef8172;
+
+  text-align: center;
+}
+
+ #press{
+   background-color: #ef8172;
+   padding: 1% 15%;
+   padding-bottom: 100px;
+   text-align: center;
+ }
+.testimonial-image{
+width: 10%;
+border-radius: 50%;
+margin: 20px;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.logo{
+  margin: 25px;
+  width: 18%;
+}
+
+#pricing{
+  padding:3% 10%;
+  text-align: center;
+}
+
+.pricing-heading{
+  padding:5% 0;
+}
+
+.pricing-column{
+margin-bottom: 30px;
+}
+
+.first-price, .second-price{
+line-height: 1.5rem
+}
+
+.align-btn{
+  margin-top: 55px;
+}
+#cta{
+  background-color: #ff4c68;
+  padding: 5% 8%;
+  text-align: center;
+}
+
+.title-row{
+  padding-right: 100px;
+}
+
+.cta-heading{
+  color: #fff;
+  padding-top: 2rem;
+}
+
+#footer{
+  padding: 8% 10%;
+  text-align: center;
+}
+
+.footer-icon{
+  padding: 50px 20px;
+}
+
+@media (max-width:992px) {
+  .Iphone-img{
+    position: static;
+    transform: rotate(0);
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .headline{
+    padding: 0;
+  }
+  .item-parent{
+    margin-top: 50px;
+    text-align: center;
+  }
+  #title{
+    text-align: center;
+  }
+
+
+}
+
+.footer-text{
+  font-weight: lighter;
+}
